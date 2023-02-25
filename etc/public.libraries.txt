@@ -1,0 +1,8 @@
+libDualCamBokehCapture.camera.samsung.so
+libLocalTM_wrapper.camera.samsung.so
+libMcClient.so
+libOpenCL.so
+libface_landmark.arcsoft.so
+libhumantracking.arcsoft.so
+libhumantracking_util.camera.samsung.so
+libveengine.arcsoft.so
